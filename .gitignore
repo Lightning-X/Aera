@@ -28,3 +28,4 @@
 *.xml
 *.tmp
 *.sarif
+*.vcxproj.user
